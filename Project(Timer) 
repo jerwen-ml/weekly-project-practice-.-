@@ -1,0 +1,13 @@
+# 5 seconds Count Down (Weekly Project)
+
+import time
+count_down = 5
+
+while count_down >=1:
+    print(count_down)
+    
+    count_down -=1
+    
+    time.sleep(1)
+
+print("I'm Sorry, You're not good enough.")
