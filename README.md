@@ -1,3 +1,1 @@
-# jerwen-ml-project
-Data science and AI projects focused on predictive analytics, fuel optimization, and student performance monitoring using Python and machine learning.”
-I am on going Data science and AI development. My first project as a newbie is to solve my problem first before anything else. In my first project I gather my travel data from my home to other places or municipalities and Gasoline Consumption through my rides then I want to figure out and predict the possible time if I go to the certain place and also to manage Oil or gasoline consumption in order to save and contribute for my goal. Second project that I need to build is Students Progress Analyzer to manage and give action for students who need academic improvements. Especially I am working kids with special needs, it is helpful for me to contribute something different.
+Simple Project 
